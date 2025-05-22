@@ -3,6 +3,8 @@ library;
 import 'package:logger/logger.dart';
 import 'package:meta/meta.dart';
 
+export "package:logger/src/log_level.dart";
+
 /// Configuration class for a [Logger]
 class LoggingConfig {
   Logger? _logger;

@@ -5,3 +5,4 @@ include: package:flutter_lints/flutter.yaml
 linter:
   rules:
     - prefer_relative_imports
+    - prefer_double_quotes

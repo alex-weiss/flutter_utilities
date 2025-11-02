@@ -1,8 +1,7 @@
 name: flutter_utilities
 description: "Miscellaneous utilities for flutter projects"
-version: 1.0.0
+version: 1.1.0
 publish_to: none
-homepage:
 
 environment:
   sdk: ^3.5.4
@@ -19,5 +18,4 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^4.0.0
 
-flutter:
 

@@ -1,6 +1,6 @@
 library;
 
-import 'dart:convert';
+import "dart:convert";
 
 class JsonUtils {
   static Map<String, V> decodeStringToMap<V>(final String jsonString,

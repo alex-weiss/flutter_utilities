@@ -1,5 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_utilities/json.dart';
+import "package:flutter_test/flutter_test.dart";
+import "package:flutter_utilities/src/json.dart";
 
 void main() {
   setUp(() {});
